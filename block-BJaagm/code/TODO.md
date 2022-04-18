@@ -1,7 +1,7 @@
 1. What does thread of execution means in JavaScript?
 
 2. Where the JavaScript code gets executed?
-
+memory
 3. What does context means in Global Execution Context?
 
 4. When do you create a global execution context.
