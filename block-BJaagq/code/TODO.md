@@ -24,7 +24,7 @@ console.log(species); // 2
 - Create the execution context diagram
 - What will be the value of species on 1 and 2
 
-2.
+2...
 
 ```js
 var topLevelVar = 'This is global scope!';
