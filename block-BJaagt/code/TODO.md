@@ -22,7 +22,7 @@ The above code will throw an error `Reference Error username is not defined`.
 console.log(useranme); // output
 ```
 
-3. Go through the code below and write down the process of making decision about looking for the variable. Also write the output of the code below.
+3. Go through the code below and write down the process of making decision about looking for the variable. Also write the output of the code below..
 
 ```js
 if (true) {
