@@ -47,5 +47,5 @@ console.log(even); // [4,234,20]
 let odd = filter(numbers, function (n) {
   return n % 2 !== 0;
 });
-console.log(odd); // [1,3,5,7,89]
+console.log(odd); // [1,3,5,7,89]..
 ```
