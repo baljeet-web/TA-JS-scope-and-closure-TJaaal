@@ -59,7 +59,7 @@ console.log(counter1.value());  // OUTPUT
 
 counter1.increment();
 counter1.increment();
-console.log(counter1.value()); // OUTPUT
+console.log(counter1.value()); // OUTPUT.
 
 counter1.decrement();
 console.log(counter1.value()); // OUTPUT
