@@ -354,5 +354,5 @@ let allFunctions = [
   half,
 ];
 
-// Answer is: 447
+// Answer is: 447.
 ```
