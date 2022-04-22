@@ -23,7 +23,7 @@ var nextMessage = sayHello('Test');
 <!-- Answer -->
 
 ```js
-// Declaration Phase
+// Declaration Phase..
 var username = undefined;
 let brothers;
 
