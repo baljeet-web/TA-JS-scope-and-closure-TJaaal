@@ -2,7 +2,7 @@
 
 ```js
 function once(cb) {
-  // your code goes here
+  // your code goes here.
 }
 
 // TEST
